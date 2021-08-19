@@ -69,5 +69,5 @@ module.exports = {
 ### 動作確認
 
 ```bash
-$ yar lint:test
+$ yarn lint:test
 ```
